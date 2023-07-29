@@ -15,7 +15,7 @@
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">SD ALAM PELOPOR</h5>
         </a>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Jl. Kaktus Raya Perumahan No.100, Rancaekek Wetan, Kec. Rancaekek, Kabupaten Bandung, Jawa Barat 40394</p>
-        <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+        <a href="https://www.google.co.id/maps/place/Sekolah+Alam+Pelopor/@-6.976953,107.7581469,17z/data=!3m1!4b1!4m6!3m5!1s0x2e68c3886794b669:0x6742622956ba24e9!8m2!3d-6.9769583!4d107.7607218!16s%2Fg%2F1ptyf10_v?entry=ttu" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
             Cek Sekarang
              <svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
@@ -36,7 +36,7 @@
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">SMPN 3 BALEENDAH</h5>
         </a>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Jl. Rancakasiat, Rancamanyar, Kec. Baleendah, Kabupaten Bandung, Jawa Barat 40375</p><br>
-        <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+        <a href="https://www.google.co.id/maps/place/SMPN+3+Baleendah/@-6.9965182,107.5916825,17z/data=!3m1!4b1!4m6!3m5!1s0x2e68e9423cde8e85:0xd7f9995c7b161445!8m2!3d-6.9965235!4d107.5962959!16s%2Fg%2F11b8twykcq?entry=ttu" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
             Cek Sekarang
              <svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
@@ -58,7 +58,7 @@
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">SMK ASSALAAM BANDUNG</h5>
         </a>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Jl. Situ Tarate Jl. Cibaduyut, Cangkuang Kulon, Kec. Dayeuhkolot, Kabupaten Bandung, Jawa Barat 40265</p>
-        <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+        <a href="https://www.google.co.id/maps/place/SMK+Assalaam+Bandung+(PUSAT+KEUNGGULAN)/@-6.9666517,107.5897462,17z/data=!3m1!4b1!4m6!3m5!1s0x2e68e8deccecb6f1:0x658cc60fbe5017b9!8m2!3d-6.966657!4d107.5923211!16s%2Fg%2F11b6hnkk0s?entry=ttu" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
             Cek Sekarang
              <svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
